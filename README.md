@@ -17,3 +17,6 @@ Este projeto é uma atividade simples utilizando a biblioteca jQuery. Foi criada
 1. Baixe os arquivos do projeto.
 2. Abra o arquivo `index.html` em um navegador.
 3. Clique nas miniaturas para trocar a imagem principal.
+
+## Link para acesso
+https://healzy1.github.io/atividade-jquery-simples/

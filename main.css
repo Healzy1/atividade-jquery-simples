@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.main-image {
+    width: 600px;
+    max-width: 100%;
+    border: 4px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.thumbnails {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.thumbnail {
+    width: 120px;
+    cursor: pointer;
+    border: 3px solid transparent;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+.thumbnail:hover {
+    border-color: #007bff;
+}

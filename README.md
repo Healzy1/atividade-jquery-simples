@@ -20,3 +20,6 @@ Este projeto é uma atividade simples utilizando a biblioteca jQuery. Foi criada
 
 ## Link para acesso
 https://healzy1.github.io/atividade-jquery-simples/
+
+## Observação
+Os arquivos enviados via SIGAA e os arquivos no GitHub podem estar diferentes por conta de idéias de atualizações posteriores ao envio.
